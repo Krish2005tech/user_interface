@@ -30,8 +30,6 @@ This is a Windows batch script named `user_interface.bat`, one of the first prog
 
 ![Main Menu](user_menu.png)
 
-Replace `path/to/screenshot.png` with the actual path to your screenshot file.
-
 ---
 
 Feel free to explore the script and enjoy the various features and games it offers!
