@@ -28,8 +28,6 @@ This is a Windows batch script named `user_interface.bat`, one of the first prog
 
 ## Screenshot
 
-You can add a screenshot of the main menu here:
-
 ![Main Menu](user_menu.png)
 
 Replace `path/to/screenshot.png` with the actual path to your screenshot file.
